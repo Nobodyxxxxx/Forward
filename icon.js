@@ -4,6 +4,6 @@
 "icons":
     [
 	{"name":"SDL", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/SDL.png"},
-	
+	{"name":"BB1", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/BB1.png"},
     ]
 }
