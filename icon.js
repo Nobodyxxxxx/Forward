@@ -5,6 +5,8 @@
     [
 	{"name":"BB", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/BB.png"},
        	{"name":"cinetrail", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/cinetrail.png"},
+	{"name":"douban", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/douban.png"},
+	{"name":"erciyuan", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/erciyuan.png"},
 	{"name":"HKA", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/HKA.png"},
 	{"name":"jingzhe", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/jingzhe.png"},  
 	{"name":"JSQ", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/JSQ.png"},
