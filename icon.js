@@ -40,6 +40,7 @@
 	{"name":"wenjian3", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/wenjian3.png"},
 	{"name":"yezi", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/yezi.png"},
 	{"name":"youno", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/youno.png"},
+	{"name":"YQB", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/YQB.png"},
 	{"name":"zox", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/zox.png"}
        
     ]
