@@ -29,6 +29,7 @@
         {"name":"nyamedia", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/nyamedia.png"},
 	{"name":"peach", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/peach.png"},
 	{"name":"prejudice", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/prejudice.png"},
+	{"name":"playz", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/playz.png"},
 	{"name":"QDZ", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/QDZ.png"},
 	{"name":"rainbow", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/rainbow.png"},
 	{"name":"RJ", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/RJ.png"},
