@@ -37,6 +37,7 @@
 	{"name":"QDZ", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/QDZ.png"},
 	{"name":"rainbow", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/rainbow.png"},
 	{"name":"RJ", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/RJ.png"},
+	{"name":"saodu", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/saodu.png"},
 	{"name":"shufu", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/shufu.png"},
 	{"name":"sntp1", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/sntp1.png"},
 	{"name":"sntp2", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/sntp2.png"},
