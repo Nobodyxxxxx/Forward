@@ -8,6 +8,7 @@
 	{"name":"cc", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/cc.png"},
     {"name":"cinetrail", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/cinetrail.png"},
 	{"name":"douban", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/douban.png"},
+	{"name":"emos", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/emos.png"},
 	{"name":"handou", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/handou.png"},
 	{"name":"HKA", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/HKA.png"},
 	{"name":"ichinose", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/ichinose.png"},	
