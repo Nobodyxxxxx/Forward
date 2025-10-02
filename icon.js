@@ -14,6 +14,7 @@
 	{"name":"ichinose", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/ichinose.png"},	
 	{"name":"jieshu", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/jieshu.png"},  
 	{"name":"jingzhe", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/jingzhe.png"},  
+	{"name":"jms", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/jms.png"},
 	{"name":"JSQ", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/JSQ.png"},
     {"name":"kiku", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/kiku.png"},
 	{"name":"KFC", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/KFC.png"},
