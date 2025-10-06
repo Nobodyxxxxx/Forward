@@ -34,6 +34,7 @@
 	{"name":"nebula", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/nebula.png"},
 	{"name":"nanflix", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/nanflix.png"},
     {"name":"nyamedia", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/nyamedia.png"},
+	{"name":"NubeBelle", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/NubeBelle.png"},
 	{"name":"peach", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/peach.png"},
 	{"name":"prejudice", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/prejudice.png"},
 	{"name":"playz", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/playz.png"},
