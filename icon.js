@@ -43,6 +43,7 @@
     {"name":"nyamedia", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/nyamedia.png"},
 	{"name":"NubeBelle", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/NubeBelle.png"},
 	{"name":"ok", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/ok.png"},
+	{"name":"ong", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/ong.png"},
 	{"name":"peach", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/peach.png"},
 	{"name":"prejudice", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/prejudice.png"},
 	{"name":"playz", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/playz.png"},
