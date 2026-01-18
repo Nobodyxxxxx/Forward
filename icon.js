@@ -1,6 +1,6 @@
 {
-"name":"Forward Icon", 
-"description":"by :)", 
+"name":"Forward ICON", 
+"description":"by 𝕏", 
 "icons":
     [
 	{"name":"105°", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/105°.png"},
@@ -75,7 +75,6 @@
 	{"name":"yueer", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/yueer.png"},
 	{"name":"YQB", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/YQB.png"},
 	{"name":"zdz", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/zdz.png"},
-	{"name":"zox", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/zox.png"}
-       
+	{"name":"zox", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/zox.png"}    
     ]
 }
