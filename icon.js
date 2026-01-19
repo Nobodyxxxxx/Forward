@@ -12,13 +12,11 @@
 	{"name":"dada", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/dada.png"},
 	{"name":"douban", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/douban.png"},
 	{"name":"emos", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/emos.png"},
-	{"name":"futureecho", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/futureecho.png"},
 	{"name":"handou", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/handou.png"},
 	{"name":"helloemby", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/helloemby.png"},
 	{"name":"HKA", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/HKA.png"},
 	{"name":"HKA2", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/HKA2.png"},
 	{"name":"ichinose", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/ichinose.png"},
-	{"name":"ikun", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/ikun.png"},
 	{"name":"jieshu", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/jieshu.png"},  
 	{"name":"jingzhe", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/jingzhe.png"},  
 	{"name":"jms", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/jms.png"},
@@ -63,7 +61,6 @@
 	{"name":"SDL", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/SDL.png"},
 	{"name":"SDL2", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/SDL2.png"},
 	{"name":"tanhua", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/tanhua.png"},
-	{"name":"walking", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/walking.png"},
 	{"name":"wenjian", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/wenjian.png"},
 	{"name":"wenjian2", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/wenjian2.png"},
 	{"name":"wenjian3", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/wenjian3.png"},
@@ -72,9 +69,16 @@
 	{"name":"xiaozhuxuan", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/xiaozhuxuan.png"},
 	{"name":"yezi", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/yezi.png"},
 	{"name":"youno", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/youno.png"},
-	{"name":"yueer", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/yueer.png"},
 	{"name":"YQB", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/YQB.png"},
 	{"name":"zdz", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/zdz.png"},
-	{"name":"zox", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/zox.png"}    
+	{"name":"zox", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/zox.png"},
+
+		{"name":"futureecho", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/futureecho.png"},
+		{"name":"yinhai", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/yinhai.png"},
+		{"name":"ikun", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/ikun.png"},
+		{"name":"emusic", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/emusic.png"},
+		{"name":"wenjianyinshu", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/wenjianyinshu.png"},
+		{"name":"walking", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/walking.png"},
+		{"name":"yueer", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/yueer.png"}
     ]
 }
