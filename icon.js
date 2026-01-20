@@ -51,6 +51,7 @@
 	{"name":"plumber1", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/plumber1.png"},
 	{"name":"plumber2", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/plumber2.png"},
 	{"name":"QDZ", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/QDZ.png"},
+	{"name":"qingfu", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/qingfu.png"},
 	{"name":"rainbow", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/rainbow.png"},
 	{"name":"RJ", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/RJ.png"},
 	{"name":"saodu", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/saodu.png"},
