@@ -12,6 +12,7 @@
 	{"name":"dada", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/dada.png"},
 	{"name":"douban", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/douban.png"},
 	{"name":"emos", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/emos.png"},
+	{"name":"FeiyueEmby", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/FeiyueEmby.png"},
 	{"name":"handou", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/handou.png"},
 	{"name":"helloemby", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/helloemby.png"},
 	{"name":"HKA", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/HKA.png"},
