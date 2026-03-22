@@ -73,6 +73,7 @@
 	{"name":"wenjian3", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/wenjian3.png"},
 	{"name":"wenjian4", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/wenjian4.png"},
 	{"name":"wenjian5", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/wenjian5.png"},
+	{"name":"xyz", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/xyz.png"},
 	{"name":"xiaozhuxuan", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/xiaozhuxuan.png"},
 	{"name":"yezi", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/yezi.png"},
 	{"name":"youno", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/youno.png"},
