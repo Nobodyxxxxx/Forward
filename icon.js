@@ -68,6 +68,7 @@
 	{"name":"SDL", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/SDL.png"},
 	{"name":"SDL2", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/SDL2.png"},
 	{"name":"tanhua", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/tanhua.png"},
+	{"name":"unbound", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/unbound.png"},
 	{"name":"wenjian", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/wenjian.png"},
 	{"name":"wenjian2", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/wenjian2.png"},
 	{"name":"wenjian3", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/wenjian3.png"},
