@@ -78,6 +78,7 @@
 	{"name":"xyz", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/xyz.png"},
 	{"name":"xiaozhuxuan", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/xiaozhuxuan.png"},
 	{"name":"yezi", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/yezi.png"},
+	{"name":"yuezhixuan", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/yuezhixuan.png"},
 	{"name":"youno", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/youno.png"},
 	{"name":"YQB", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/YQB.png"},
 	{"name":"zdz", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/zdz.png"},
