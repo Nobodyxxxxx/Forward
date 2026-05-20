@@ -4,6 +4,7 @@
 "icons":
     [
 	{"name":"105°", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/105°.png"},
+	{"name":"yhlc", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/yhlc.png"},
 	{"name":"404", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/404.png"},
 	{"name":"BB", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/BB.png"},
 	{"name":"bcxc", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/bcxc.png"},
