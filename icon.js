@@ -50,6 +50,7 @@
 	{"name":"nanflix", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/nanflix.png"},
     {"name":"nyamedia", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/nyamedia.png"},
 	{"name":"NubeBelle", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/NubeBelle.png"},
+	{"name":"nox", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/nox.png"},
 	{"name":"ok", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/ok.png"},
 	{"name":"okemby", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/okemby.png"},
 	{"name":"OrigamiArt", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/OrigamiArt.png"},
