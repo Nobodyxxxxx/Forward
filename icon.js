@@ -37,6 +37,7 @@
 	{"name":"liminal4", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/liminal4.png"},
 	{"name":"LunarisVault", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/LunarisVault.png"},
 	{"name":"M", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/M.png"},
+	{"name":"maowo", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/maowo.png"},
 	{"name":"melon", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/melon.png"},
 	{"name":"nijigen", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/nijigen.png"},
 	{"name":"mirai", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/mirai.png"},
