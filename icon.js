@@ -28,6 +28,7 @@
     {"name":"kiku", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/kiku.png"},
 	{"name":"KFC", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/KFC.png"},
 	{"name":"kl", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/kl.png"},
+	{"name":"laoyouji", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/laoyouji.png"},
     {"name":"levilde", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/levilde.png"},
 	{"name":"liuli", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/liuli.png"},
 	{"name":"liminalLite", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/liminalLite.png"},
