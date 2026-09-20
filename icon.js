@@ -95,6 +95,7 @@
 	{"name":"youno", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/youno.png"},
 	{"name":"YQB", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/YQB.png"},
 	{"name":"zdz", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/zdz.png"},
+	{"name":"zmfs", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/zmfs.png"},
 	{"name":"zox", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/zox.png"},
 	{"name":"futureecho", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/futureecho.png"},
 	{"name":"yidiandian", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/yidiandian.png"},
