@@ -10,6 +10,7 @@
 	{"name":"bcxc", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/bcxc.png"},
 	{"name":"chabao", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/chabao.png"},
 	{"name":"cc", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/cc.png"},
+	{"name":"chencheng", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/chencheng.png"},
 	{"name":"chef", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/chef.png"},
     {"name":"cinetrail", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/cinetrail.png"},
 	{"name":"dada", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/dada.png"},
