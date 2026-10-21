@@ -23,6 +23,7 @@
 	{"name":"FeiyueEmby", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/FeiyueEmby.png"},
 	{"name":"feiyue", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/feiyue.png"},
 	{"name":"fengyuege", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/fengyuege.png"},
+	{"name":"Freshippo", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/Freshippo.png"},
 	{"name":"handou", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/handou.png"},
 	{"name":"helloemby", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/helloemby.png"},
 	{"name":"HKA", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/HKA.png"},
