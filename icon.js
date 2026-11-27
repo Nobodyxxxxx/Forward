@@ -53,6 +53,7 @@
 	{"name":"maowo", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/maowo.png"},
 	{"name":"melon", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/melon.png"},
 	{"name":"nijigen", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/nijigen.png"},
+	{"name":"niubi", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/niubi.png"},
 	{"name":"mirai", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/mirai.png"},
 	{"name":"misty", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/misty.png"},
 	{"name":"micu", "url":"https://raw.githubusercontent.com/Nobodyxxxxx/Forward/refs/heads/main/icon/micu.png"},
